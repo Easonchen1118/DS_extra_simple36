@@ -1,5 +1,5 @@
 #include <stdio.h>
-//平、閏年判定
+//平、閏年判定https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30753
 int main(){
     int year;
     scanf("%d", &year);
